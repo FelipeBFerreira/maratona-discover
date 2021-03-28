@@ -1,5 +1,9 @@
+
 <h1 align="center">
-  <img alt="Front-End" title="JobsCalc" src="./.github/Front-End.png" width="220px" />
+  div.Finances$
+</h1>
+<h1 align="center">
+  <img alt="Front-End" title="dev.finances" src="./.github/Front-End.png" width="220px" />
 </h1>
 
 <p align="center">
